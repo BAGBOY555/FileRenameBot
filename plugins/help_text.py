@@ -103,7 +103,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('📺Support Channel📺', url='https://t.me/Dulquer_Salmaan_lovers'),
-                    InlineKeyboardButton('🖋️Feedback🖋️', url='https://t.me/FK_MOVIES_ADMIN')
+                    InlineKeyboardButton('🖋️Feedback🖋️', url='https://t.me/comment_vbot')
                 ],
                 [
                     InlineKeyboardButton('💾Create your own💾', url='https://youtu.be/J3vzr20_ix8'),
